@@ -22,17 +22,17 @@ All queries are in [`restaurant_analysis.sql`](restaurant_analysis.sql), with th
 ### Most and least ordered items
 The **Hamburger** was the most ordered item (622), and **Chicken Tacos** was the least ordered (123).
 
-![Most and least ordered items](images/most_least_ordered.png)
+![Most and least ordered items](most_least_ordered.png)
 
 ### Top 5 orders by spend
 The highest-spend order was **$192.15** (order 440).
 
-![Top 5 orders by spend](images/top_5_orders.png)
+![Top 5 orders by spend](top_5_orders.png)
 
 ### What the biggest spenders ordered
 In the highest-spend order, **8 of 14 items were Italian**. Across the top 5 orders, Italian dishes made up about 38% of all items.
 
-![Highest spend order by category](images/highest_order_details.png)
+![Highest spend order by category](highest_order_details.png)
 
 ### Other findings
 - **Italian** is the most expensive category (average $16.75), and **American** is the cheapest ($10.07)
